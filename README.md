@@ -1,2 +1,3 @@
 # gmaxwell
-Open-source version of the G-Maxwell, an EM simulator
+
+A public version for the GitHub, created on April 12, 2018
